@@ -3,12 +3,12 @@ entries:
   myapp101:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-02-09T08:22:06.65582+05:30"
+    created: "2025-02-09T10:20:24.657076+05:30"
     description: A Helm chart for Kubernetes
-    digest: 835c8f533b65e7c13ae5eb2436a392fd76e57ff8608372c0bf216c9edc65ca3e
+    digest: 834252b61abd90882729c669e46e417d7456209b266eed35856a001aa048463c
     name: myapp101
     type: application
     urls:
-    - https://abinashgit051.github.io/abi-helm-charts-repo/myapp101-1.0.0.tgz
+    - https://abinashgit051.github.io/helmrepository/myapp101-1.0.0.tgz
     version: 1.0.0
-generated: "2025-02-09T08:22:06.654475+05:30"
+generated: "2025-02-09T10:20:24.655313+05:30"
