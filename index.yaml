@@ -9,6 +9,6 @@ entries:
     name: myapp101
     type: application
     urls:
-    - https://abinashgit051.github.io/helmrepository/myapp101-1.0.0.tgz
+    - https://github.com/abinashgit051/helmrepository/blob/main/myapp101-1.0.0.tgz
     version: 1.0.0
 generated: "2025-02-09T10:20:24.655313+05:30"
